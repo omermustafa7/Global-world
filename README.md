@@ -1,2 +1,2 @@
 # Global-world
-everything that connects the world
+my first git repository
